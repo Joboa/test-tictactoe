@@ -6,3 +6,4 @@ val1 = 2
 val2 = 4
 
 result = addTwonumbers(val1, val2)
+console.log(result)
